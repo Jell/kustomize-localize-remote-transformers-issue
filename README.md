@@ -1,4 +1,4 @@
-# kustomize-issue-4958
+# kustomize localize issue with remote transformers
 
 To reproduce:
 
